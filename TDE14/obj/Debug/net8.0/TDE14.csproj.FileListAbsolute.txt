@@ -1,0 +1,14 @@
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\bin\Debug\net8.0\TDE14.exe
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\bin\Debug\net8.0\TDE14.deps.json
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\bin\Debug\net8.0\TDE14.runtimeconfig.json
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\bin\Debug\net8.0\TDE14.dll
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\bin\Debug\net8.0\TDE14.pdb
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\TDE14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\TDE14.AssemblyInfoInputs.cache
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\TDE14.AssemblyInfo.cs
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\TDE14.csproj.CoreCompileInputs.cache
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\TDE14.dll
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\refint\TDE14.dll
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\TDE14.pdb
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\TDE14.genruntimeconfig.cache
+C:\Users\regis\OneDrive\Área de Trabalho\FACULDADE\Segundo semestre\LABORATORIO PROGRAMACAO\TDE14\obj\Debug\net8.0\ref\TDE14.dll
